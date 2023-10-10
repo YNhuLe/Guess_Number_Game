@@ -4,7 +4,6 @@ from art import logo
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
 PRO_LEVEL = 2
-win_win = 0
 
 
 # TODO: Function to check user's guess against actual answer.
