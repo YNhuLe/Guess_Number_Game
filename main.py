@@ -19,7 +19,7 @@ def check_answer(guess, answer, turns):
         print(f"Yay!!!You got it! The answer was {answer}.")
 
 
-# TODO: Make function to set difficulty
+# TODO: Make function to set difficulty. With 3 levels of difficulties so user can pick.
 def set_difficulty():
     level = input("We have 3 levels for you to pick from.\n"
                   "1. Easy peasy, when you have 10 guesses.\n"
