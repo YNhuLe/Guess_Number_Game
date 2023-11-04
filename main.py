@@ -42,7 +42,7 @@ def game():
 
     print("I am thinking the number between 1 and 100.")
     answer = randint(1, 100)
-    print(f"The correct answer is {answer}")
+    # print(f"The correct answer is {answer}")
 
     turns = set_difficulty()
 
